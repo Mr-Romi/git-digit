@@ -1,0 +1,16 @@
+# Virtual environment
+.venv/
+
+# Sample/test repo
+sample-repo/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# OS
+.DS_Store
+Thumbs.db
